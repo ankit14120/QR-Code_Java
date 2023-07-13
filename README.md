@@ -7,4 +7,4 @@ Generate and Read QR-code using java
       https://mvnrepository.com/artifact/com.google.zxing/core/1.7
     zxing-j2se-1.7.jar
       https://mvnrepository.com/artifact/com.google.zxing/javase/1.7
-
+If This not found by this link direct search on net and downloand these jars files
