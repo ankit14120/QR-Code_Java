@@ -1,6 +1,6 @@
 # QR-Code_Java
 Generate and Read QR-code using java
-In This project required Three External jars with name:
+# In This project required Three External jars with name:
     qrgrn-1.0.jar 
       https://jar-download.com/?search_box=qrgen1.0%20jar
     zxing-core-1.7.jar
